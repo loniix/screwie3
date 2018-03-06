@@ -1,0 +1,19 @@
+{
+    "name": "screwie",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "dependencies": {
+      "discord.js": "^11.3.2",
+      "file-system": "^2.2.2",
+      "git": "^0.1.5",
+      "quick.db": "^5.3.8"
+    },
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Loniix",
+    "license": "ISC"
+  }
+  
